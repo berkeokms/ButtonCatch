@@ -1,0 +1,56 @@
+body {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(115, 115, 155);
+    position: absolute;
+
+}
+#nesne {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: white;
+    border-radius: 50px;
+}
+
+#score{
+
+position: absolute;
+width: 500px;
+height: 250px;
+
+left: 550px;
+top: 175px;
+
+font-family: monospace;
+font-size: 2rem;
+color: red;
+}
+
+#time{
+    position: absolute;
+    left: 550px;
+font-size: 3rem;
+width: 500px;
+
+}
+
+#button{
+
+height: 75px;
+width: 100px;
+position: absolute;
+top: 350px;
+left: 600px;
+color: black;
+font-size: 1.5rem;
+}#button2{
+
+    height: 75px;
+    width: 100px;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    color: black;
+    font-size: 1.5rem;
+    }
